@@ -1,4 +1,4 @@
-# JDBC-CRUD-Operation
+# JDBC-MySql-CRUD-Operation
 JDBC CRUD operations concepts by using the five steps:
 1. Load/Registering the driver
 2. Establishing the connection
